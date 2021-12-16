@@ -4,10 +4,10 @@ export default function BesoAmor() {
     return (
         <div>
             <article>
-                <section>
+                <section className="mgn-article">
                 Hay infinitas formas de besar a tu pareja. Algunas más románticas, otras más apasionadas, etc. Lo normal es que vayan variando dependiendo de la situación en la que estemos. No vamos a dar el mismo beso a nuestra pareja si estamos delante de su familia o si estamos a punto de hacer el amor. Además hay algunos besos que son claves para conquistar a tu pareja, de estos vamos a hablar aquí.
                 </section>
-                <ul>
+                <ul className="ul-list">
                     <li>BESO FRANCÉS
 Es uno de los más comunes. Se refiere al típico beso con lengua, nada de un pico, sino mucho más apasionado y sensual. Según varias encuestas es el que más le gusta a los hombres y también a las mujeres. Si se hace con pasión y con cariño puede ser perfecto para enamorar aún más a tu pareja.</li>
                     <li>BESO ESTRELLA

@@ -6,7 +6,7 @@ export default function Navegation() {
   return (
     <div>
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
-        <Navbar.Brand href="/">Tutolio</Navbar.Brand>
+        <Navbar.Brand className="neon" href="/">Tutolio</Navbar.Brand>
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="mr-auto">
@@ -30,7 +30,7 @@ export default function Navegation() {
 
               </NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2">
-              <Nav.Link className="black" href="/tipsbesarcomoprofesional">Besos para enamorar</Nav.Link>
+              <Nav.Link className="black" href="/besosparaenamorar">Besos para enamorar</Nav.Link>
                 </NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.3">
                 <Nav.Link className="black" href="/besarconpiercing">Beso con Piercing</Nav.Link>

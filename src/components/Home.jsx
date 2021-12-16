@@ -8,8 +8,7 @@ export default class Home extends Component {
   
   <section>
     <div class="title">
-      <h3>Quieres aprender</h3>
-      <h1>A Liarte</h1>
+    <h1 class="neon">Aprende a Liarte</h1>
     </div>
   </section>
   

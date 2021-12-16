@@ -3,7 +3,7 @@ import React from 'react'
 export default function TipsBeso() {
     return (
         <div>
-            <ul>
+            <ul className="ul-list">
                 <li>CUIDA TUS LABIOS
 Mantén tus labios siempre humectados y sin imperfecciones, lo esencial para un buen beso es tenerlos irresistibles.Usa un suero especial como parte de tu rutina de belleza, de día y de noche, retocándolos con un bálsamo hidratante.</li>
                 <li>REFRESCA TU ALIENTO

@@ -58,3 +58,16 @@
 @media screen and (max-width: 479px) {
   #parallax-world-of-ugg .block {padding: 30px 15px; width:290px;}
 }
+
+.neon {
+  color: #fff !important;
+  text-shadow:
+    0 0 5px red,
+    0 0 10px red,
+    0 0 20px red,
+    0 0 40px red,
+    0 0 80px red,
+    0 0 90px #0ff,
+    0 0 100px #0ff,
+    0 0 150px red;
+}
